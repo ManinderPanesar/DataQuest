@@ -1,3 +1,3 @@
 # DataQuest
 
-This repository contains all the guided projects from DataQuest while learning python for data science.  
+This repository contains all the guided projects from DataQuest I worked on while learning python for data science.  
