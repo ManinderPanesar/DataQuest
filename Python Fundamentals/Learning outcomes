@@ -1,0 +1,41 @@
+1. Programming in Python
+- What is a computer program
+- How to write and execute computer programs
+- How to perform arithmetical operations in Python
+- What code comments are and what they are used for
+
+2. Variables and Data Types
+- How to save values using variables
+- How to update variables
+- How to work with numerical data
+- How to work with text data
+
+3. Lists and For Loops
+- How to work with lists in Python
+- How to work lists of lists in Python
+- How to use Python to open a data set stored on a file
+- How to analyze data using for loops
+
+4. Conditional Statements
+- How to use if, else,and elif statements
+- How to use logical operators
+- How to use comparison operators
+
+5. Dictionaries and Frequency Tables
+- How to create dictionaries
+- How to update dictionary values
+- How to check for dictionary membership
+- How to count with dictionaries and build frequency tables
+
+6. Functions: Fundamentals
+- What functions are and do
+- How to create your own functions
+- How to combine functions
+- How to debug functions
+
+7. Functions: Intermediate
+- What default arguments are
+- How to use multiple return statements
+- How to return multiple variables
+- How mutable and immutable data types behave
+- How to use documentation
