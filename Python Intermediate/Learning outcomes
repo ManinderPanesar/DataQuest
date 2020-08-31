@@ -1,0 +1,19 @@
+1. Cleaning and Preparing Data in Python
+- How to work with and prepare text data in Python
+- Basic data cleaning techniques
+- Handling errors during data cleaning
+
+2. Python Data Analysis Basics
+- Basic data analysis techniques
+- Summarizing numeric data
+- Formatting strings in Python
+
+3. Object-Oriented Python
+- What object-oriented programming is and how it relates to the data science workflow
+- Key concepts including classes, instances, attributes and methods.
+- How to create your own class
+
+4. Working with Dates and Times in Python
+- How to parse dates from strings using the datetime library
+- Techniques for date and time analysis
+- Formatting dates using strftime
