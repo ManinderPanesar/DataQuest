@@ -1,0 +1,16 @@
+1. Improving Plot Aesthetics
+- How to improve the look of your graphs
+- About the data-ink ratio for plots
+
+2. Color, Layout, and Annotations
+- Why to be mindful of your color choices
+- The importance of your data layout
+- When annotations can be used to provide additional context
+
+3. Conditional Plots
+- About the seaborn data visualization library
+- How seaborn can make your plots stand out
+
+4. Visualizing Geographic Data
+- How to visualize geographic data
+- How to display geographic data on a world map
