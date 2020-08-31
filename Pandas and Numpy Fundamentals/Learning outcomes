@@ -1,0 +1,29 @@
+1. Introduction to NumPy
+- How vectorized operations makes your code faster.
+- How to select data from NumPy ndarrays.
+- How to Analyze data using NumPy methods.
+
+2. Boolean Indexing with NumPy
+- How to create boolean arrays based on data values.
+- How to use boolean arrays to select specific rows and columns.
+- How to use boolean indexing to perform data analysis.
+
+3. Introduction to pandas
+- How NumPy and pandas work together.
+- How to select data in pandas using index labels.
+- How to use pandas to analyze data.
+
+4. Exploring Data with pandas: Fundamentals
+- How to use common methods for exploring data.
+- How to assign data in pandas using index labels.
+- How to use pandas to analyze data.
+
+5. Exploring Data with pandas: Intermediate
+- How to select data in pandas by location.
+- How to use boolean masks in pandas to create complex filters.
+- More pandas methods for data analysis.
+
+6. Data Cleaning Basics
+- Read files using different encodings.
+- Extract and convert numeric values from string values.
+- Work with missing values.
