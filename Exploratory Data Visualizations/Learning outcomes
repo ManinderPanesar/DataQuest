@@ -1,0 +1,18 @@
+1. Line Charts
+- About the importance of data visualization
+- A new data science library for data visualization
+- How to create a line plot using only Python
+
+2. Multiple plots
+- How to work with multiple plots in your code
+- How to use additional matplotlib classes
+- How to create a subplot in Python
+
+3. Bar Plots And Scatter Plots
+- When to use appropriate graphs for your data
+- How to create bar and scatter plots using Python
+- How to find hidden bias in the data
+
+4. Histograms And Box Plots
+- How to create a histogram and box plot
+- How to compare multiple graphs to each other
