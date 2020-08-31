@@ -1,0 +1,20 @@
+1. Data Aggregation
+- Learn different techniques for aggregating data
+- Build intuition around the groupby operation
+
+2. Combining Data With Pandas
+- Learn different techniques for combining data
+- Learn about database-style joins and keys
+
+3. Transforming Data With Pandas
+- Learn how to apply custom functions to transform columns in pandas
+- Learn how to reshape data to prepare it for analysis
+
+4. Working With Strings In Pandas
+- Practice manipulating strings with pandas
+- Learn how to use regular expressions
+
+5. Working With Missing And Duplicate Data
+- Learn techniques for dropping rows and columns with missing data
+- Learn how to impute values to replace missing data
+- Learn how to identify and drop duplicate rows
