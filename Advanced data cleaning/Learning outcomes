@@ -1,0 +1,19 @@
+1. Regular Expression Basics
+- What regular expressions are and how to use them
+- Regex components like Character Classes and Quantifiers
+- How to use Regular Expressions with the 're' module and pandas.
+
+2. Advanced Regular Expressions
+- How to clean data by substituting regular expression matches.
+- How to use lookarounds to include and exclude text before/after your regex match.
+- How to use capture groups to extract new columns from text data.
+
+3. List Comprehensions and Lambda Functions
+- How to read and work with JSON files.
+- How to use List Comprehensions to easily create and transform lists.
+- How to create and use lambda functions.
+
+4. Working with Missing Data
+- Identify missing data using both code and visualizations
+- Resolve missing data using imputation
+- Filling missing values by using external data
